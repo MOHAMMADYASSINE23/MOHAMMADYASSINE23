@@ -1,72 +1,52 @@
 # Hi, I'm Mohammad Yassine 👋
 
-### Full-Stack Web Developer
+### Junior Full-Stack Developer | React · Next.js · Node.js · PostgreSQL
 
-I build modern, responsive web applications with a focus on clean architecture, practical user experiences, and reliable backend systems.
+I build practical web applications with modern JavaScript/TypeScript, thoughtful user experiences, and reliable backend workflows. I'm focused on strengthening my engineering fundamentals through projects that solve concrete problems.
 
-I enjoy turning ideas into real products and continuously improving my skills across the full development stack.
+- 🔭 **Building:** AI-assisted operations and finance tools
+- 🌱 **Improving:** backend architecture, testing, system design, and CI/CD
+- 🎯 **Looking for:** Junior Full-Stack Developer opportunities
+- 📍 **Based in:** Lebanon
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, authentication, server actions  
+**Data:** PostgreSQL, MongoDB, Prisma, Mongoose  
+**Tools:** Git, GitHub, Docker, automated testing
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- Server Actions
-- Authentication & authorization
+## Featured Projects
 
-**Databases & Tools**
-- PostgreSQL
-- MongoDB
-- Prisma
-- Mongoose
-- Git & GitHub
-- Docker
+### 🧾 [ByteMindAI Invoice Auditor](https://github.com/MOHAMMADYASSINE23/ByteMindeAi)
+A finance-workflow MVP for recording invoice metadata, flagging potential risk signals, and tracking review decisions. Includes a Next.js frontend, Express API, PostgreSQL persistence, session authentication, and deterministic starter rules.
 
-## 🚀 Featured Projects
+### 🛍️ [E-commerce](https://github.com/MOHAMMADYASSINE23/ecommerce)
+A Next.js commerce project using Sanity for product content and Stripe integration. See the repository README for current setup and implementation details.
 
-### Dispatch Exception CoPilot
-A full-stack operations application that turns courier exception updates into structured, actionable business operations. Built around a strict state machine and audit trail.
+### 🍔 [FoodieFly](https://github.com/MOHAMMADYASSINE23/FoodieFly_app)
+A React Native food-delivery application. A web version is a planned next step.
 
-**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Zustand, Tailwind CSS, Docker
+### 🎬 [Showmate](https://github.com/MOHAMMADYASSINE23/Showmate)
+A web application project focused on building a modern user experience.
 
-### Universal Library
-A web application for managing and exploring books with a modern user interface and full-stack functionality.
+### 📚 [Universal Library](https://github.com/MOHAMMADYASSINE23/Universal_Library)
+A book-focused application for exploring and managing a library of titles.
 
-### StackUp
-A full-stack web project focused on building practical application features with modern web technologies.
+### 🧩 [StackUp](https://github.com/MOHAMMADYASSINE23/StackUp)
+A full-stack application project built with modern web technologies.
 
-### FoodieFly
-A React Native mobile application focused on food-related experiences.
+## Currently Working On
 
-### Showmate
-A web project exploring modern frontend development and application architecture.
+- 🚚 **Dispatch Exception CoPilot:** developing a logistics-operations project based on an open software-engineering challenge, with attribution to the original foundation.
+- 🧪 Improving test coverage, validation, and error handling.
+- 🏗️ Practicing maintainable backend design and system design.
 
-## 📚 Currently Improving
-
-- System Design
-- Software Testing & QA
-- Test Automation
-- DevOps & CI/CD
-- Backend Architecture
-- Data Structures & Algorithms
-
-## 🎯 What I'm Looking For
-
-I'm looking for opportunities where I can contribute as a **Junior Full-Stack Developer** while continuing to grow through real-world engineering challenges.
-
-## 📫 Connect With Me
+## Let's Connect
 
 - GitHub: [@MOHAMMADYASSINE23](https://github.com/MOHAMMADYASSINE23)
 - Email: yassomhod23@gmail.com
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+*I value clear explanations, reliable software, and learning by building real projects.*
