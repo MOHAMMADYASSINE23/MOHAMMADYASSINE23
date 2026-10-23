@@ -22,19 +22,19 @@ I build practical web applications with modern JavaScript/TypeScript, thoughtful
 A finance-workflow application for recording invoice metadata, flagging potential risk signals, and tracking human review decisions. Includes a Next.js frontend, Express API, PostgreSQL persistence, session authentication, and deterministic starter rules.
 
 ### 🛍️ [E-commerce](https://github.com/MOHAMMADYASSINE23/ecommerce)
-A Next.js commerce project using Sanity for product content and Stripe integration. See the repository README for setup and implementation details.
+A Next.js storefront with a Sanity-managed product catalog and Stripe checkout integration. Checkout security and dependency maintenance are being actively improved.
 
 ### 🍔 [FoodieFly](https://github.com/MOHAMMADYASSINE23/FoodieFly_app)
-A React Native food-delivery application.
+A food-delivery project with a React Native mobile app and a Next.js web storefront, including customer orders and delivery-driver workflows.
 
 ### 🎬 [Showmate](https://github.com/MOHAMMADYASSINE23/Showmate)
-A web application project focused on building a modern user experience.
+A responsive movie-discovery app with search, details, trailers, streaming-provider information, favorites, and a watchlist powered by TMDB.
 
 ### 📚 [Universal Library](https://github.com/MOHAMMADYASSINE23/Universal_Library)
-A book-focused application for exploring and managing a library of titles.
+A full-stack library management app with book search, reader accounts, borrowing requests, administrator approvals, availability tracking, and book reviews.
 
 ### 🧩 [StackUp](https://github.com/MOHAMMADYASSINE23/StackUp)
-A developer-event discovery app with event browsing, bookings, and a MongoDB-backed API.
+A developer-event discovery app with event browsing, related events, email-based bookings, and a MongoDB-backed API.
 
 ## Currently Working On
 
