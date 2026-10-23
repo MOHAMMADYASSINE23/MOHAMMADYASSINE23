@@ -1,12 +1,12 @@
 # Hi, I'm Mohammad Yassine 👋
 
-### Junior Full-Stack Developer | React · Next.js · Node.js · PostgreSQL
+### Software Engineer | React · Next.js · Node.js · PostgreSQL
 
-I build practical web applications with modern JavaScript/TypeScript, thoughtful user experiences, and reliable backend workflows. I'm focused on strengthening my engineering fundamentals through projects that solve concrete problems.
+I build practical web applications with modern JavaScript/TypeScript, thoughtful user experiences, and reliable backend workflows. I focus on strengthening my engineering fundamentals through projects that solve concrete problems.
 
-- 🔭 **Building:** AI-assisted operations and finance tools
+- 🔭 **Building:** finance and operations tools
 - 🌱 **Improving:** backend architecture, testing, system design, and CI/CD
-- 🎯 **Looking for:** Junior Full-Stack Developer opportunities
+- 🎯 **Looking for:** Software Engineer opportunities
 - 📍 **Based in:** Lebanon
 
 ## Tech Stack
@@ -19,13 +19,13 @@ I build practical web applications with modern JavaScript/TypeScript, thoughtful
 ## Featured Projects
 
 ### 🧾 [ByteMindAI Invoice Auditor](https://github.com/MOHAMMADYASSINE23/ByteMindeAi)
-A finance-workflow MVP for recording invoice metadata, flagging potential risk signals, and tracking review decisions. Includes a Next.js frontend, Express API, PostgreSQL persistence, session authentication, and deterministic starter rules.
+A finance-workflow application for recording invoice metadata, flagging potential risk signals, and tracking human review decisions. Includes a Next.js frontend, Express API, PostgreSQL persistence, session authentication, and deterministic starter rules.
 
 ### 🛍️ [E-commerce](https://github.com/MOHAMMADYASSINE23/ecommerce)
-A Next.js commerce project using Sanity for product content and Stripe integration. See the repository README for current setup and implementation details.
+A Next.js commerce project using Sanity for product content and Stripe integration. See the repository README for setup and implementation details.
 
 ### 🍔 [FoodieFly](https://github.com/MOHAMMADYASSINE23/FoodieFly_app)
-A React Native food-delivery application. A web version is a planned next step.
+A React Native food-delivery application.
 
 ### 🎬 [Showmate](https://github.com/MOHAMMADYASSINE23/Showmate)
 A web application project focused on building a modern user experience.
@@ -34,7 +34,7 @@ A web application project focused on building a modern user experience.
 A book-focused application for exploring and managing a library of titles.
 
 ### 🧩 [StackUp](https://github.com/MOHAMMADYASSINE23/StackUp)
-A full-stack application project built with modern web technologies.
+A developer-event discovery app with event browsing, bookings, and a MongoDB-backed API.
 
 ## Currently Working On
 
