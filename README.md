@@ -45,7 +45,6 @@ A developer-event discovery app with event browsing, related events, email-based
 ## Let's Connect
 
 - GitHub: [@MOHAMMADYASSINE23](https://github.com/MOHAMMADYASSINE23)
-- Email: yassomhod23@gmail.com
 
 ---
 
