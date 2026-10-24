@@ -22,7 +22,7 @@ I build practical web applications with modern JavaScript/TypeScript, thoughtful
 A finance-workflow application for recording invoice metadata, flagging potential risk signals, and tracking human review decisions. Includes a Next.js frontend, Express API, PostgreSQL persistence, session authentication, and deterministic starter rules.
 
 ### 🛍️ [E-commerce](https://github.com/MOHAMMADYASSINE23/ecommerce)
-A Next.js storefront with a Sanity-managed product catalog and Stripe checkout integration. Checkout security and dependency maintenance are being actively improved.
+A Next.js storefront with a Sanity-managed product catalog, server-validated Stripe checkout, and webhook-backed paid-order persistence. Includes checkout validation tests and documented production-readiness boundaries.
 
 ### 🍔 [FoodieFly](https://github.com/MOHAMMADYASSINE23/FoodieFly_app)
 A food-delivery project with a React Native mobile app and a Next.js web storefront, including customer orders and delivery-driver workflows.
